@@ -1,0 +1,15 @@
+{
+  "password": {
+    "set": "Passwort setzten",
+    "change": "Passwort ändern",
+    "input": "Passwort"
+  },
+  "options": {
+    "name": "Optionen"
+  },
+  "chat": {
+    "start": "Dies ist der Start vom Chat mit ${name}",
+    "change": "${oldName} hat seinen Pseudonym zu ${name} geändert",
+    "new": "${count} ungelesene Nachricht[${count}>1 -> en]"
+  }
+}

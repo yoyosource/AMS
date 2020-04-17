@@ -1,0 +1,15 @@
+{
+  "password": {
+    "set": "Set Password",
+    "change": "Change Password",
+    "input": "Password"
+  },
+  "options": {
+    "name": "Options"
+  },
+  "chat": {
+    "start": "This is the start of the Chat with ${name}",
+    "change": "${oldName} changed his Pseudonym to ${name}",
+    "new": "${count} unread Message[${count}>1 -> s]"
+  }
+}
